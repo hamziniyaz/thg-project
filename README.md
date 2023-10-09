@@ -14,6 +14,7 @@ Run the following commands to start project:
 - `cd thg-project`
 - `composer install`
 - `npm install`
+- `npm run dev`
     
 # configure db settings
 
